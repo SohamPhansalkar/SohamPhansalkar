@@ -1,6 +1,6 @@
 # 💫 About Me:
-![Language](https://img.shields.io/badge/Preference-Backend_&_Embedded_Systems-green?style=pill)
-![Learning](https://img.shields.io/badge/Learning-PCBDesign_&_WEBDEV-blue?style=flat-square)
+![Language](https://img.shields.io/badge/Preference-Backend_&_Embedded_Systems-%23ED8B00?style=pill)
+![Learning](https://img.shields.io/badge/Learning-PCBDesign_&_WEBDEV-%23F7DF1E?style=flat-square)
 <br><br>
 📍 From India <br>
 📚 Student<br>
@@ -59,6 +59,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-phansalkar) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohampp26nov@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soham.phansalkar)
-
----
-[![](https://komarev.com/ghpvc/?username=SohamPhansalkar&icon=0&color=2)](https://visitcount.itsvg.in)
