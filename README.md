@@ -2,7 +2,7 @@
 ![Language](https://img.shields.io/badge/Preference-Backend_&_Embedded_Systems-%23ED8B00?style=pill)
 ![Learning](https://img.shields.io/badge/Learning-PCBDesign_&_WEBDEV-%23F7DF1E?style=flat-square)
 <br><br>
-## Website : ![phansalkar.tech](phansalkar.tech)
+## Website : [phansalkar.tech](phansalkar.tech)
 <br>
 📍 From India <br>
 📚 Student<br>
